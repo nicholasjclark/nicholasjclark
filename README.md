@@ -1,6 +1,6 @@
 ### 👋 G'day!
 
-I'm a Lecturer and research fellow at the [[University of Queensland's School of Veterinary Science](https://www.telethonkids.org.au/](https://researchers.uq.edu.au/researcher/15140)). My work aims to improve the way we model and understand ecosystem change.
+I'm a Lecturer and research fellow at the [University of Queensland's School of Veterinary Science](https://researchers.uq.edu.au/researcher/15140). My work aims to improve the way we model and understand ecosystem change.
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nicholasjclark)
