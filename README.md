@@ -5,7 +5,8 @@ I'm a Lecturer and research fellow at the [University of Queensland's School of 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nicholasjclark)
 
- - 🛠️ I maintain the [mvgam]([https://github.com/greta-dev/greta](https://nicholasjclark.github.io/mvgam/)) software for time series modelling and forecasting
-- 💬 Ask me about :coffee:, time series, ecological modelling
- - :computer: Mostly program in R
+ - 🛠️ I maintain the R 📦 [{mvgam}](https://nicholasjclark.github.io/mvgam/) for Bayesian time series modelling and forecasting
+ - 🦠 I also teach workshops on time series analysis
+- 💬 Ask me about coffee, tennis and quantitative ecology
+ - :computer: Mostly program in R and Stan
 - 😄 Pronouns: He / Him
