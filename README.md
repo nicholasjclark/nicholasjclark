@@ -1,6 +1,6 @@
-### 👋 G'day!
+# [Nicholas J Clark](https://researchers.uq.edu.au/researcher/15140) ![](https://visitor-badge.laobi.icu/badge?page_id=nicholasjclark.nicholasjclark) [![Github](https://img.shields.io/github/followers/eeholmes?label=Follow&style=social)](https://github.com/nicholasjclark)
 
-I'm a Lecturer and research fellow at the [University of Queensland's School of Veterinary Science](https://researchers.uq.edu.au/researcher/15140). My work aims to improve the way we model and understand ecosystem change.
+I'm a Lecturer and research fellow at the [University of Queensland's School of Veterinary Science]([https://researchers.uq.edu.au/researcher/15140](https://veterinary-science.uq.edu.au/)). My work aims to improve the way we model and understand ecosystem change.
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nicholasjclark)
