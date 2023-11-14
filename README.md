@@ -1,4 +1,4 @@
-<img align="right" src="comp_abstract.jpg" width="250"> 
+<img align="right" src="comp_abstract.jpg" width="180"> 
 
 I'm a Lecturer and research fellow at the [University of Queensland's School of Veterinary Science](https://researchers.uq.edu.au/researcher/15140). I am broadly interested in exploring new ways to (1) understand how ecological communities are formed and (2) predict how they will change over time.
 
