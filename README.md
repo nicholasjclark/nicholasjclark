@@ -12,3 +12,5 @@ I'm a Lecturer and research fellow at the [University of Queensland's School of 
 - 💬 Ask me about coffee, tennis and quantitative ecology
  - :computer: I mostly program in R and Stan
 - 😄 Pronouns: He / Him
+
+I'm actively seeking PhD students to work in the areas of ecological forecasting, multivariate model evaluation and development of {mvgam}. Please reach out if you are interested
