@@ -7,10 +7,10 @@ I'm a Lecturer and research fellow at the [University of Queensland's School of 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nicholasjclark&show_icons=TRUE&theme=shadow_red)
 
- - 🛠️ I maintain the R 📦 [{mvgam}](https://nicholasjclark.github.io/mvgam/) for Bayesian time series modelling and forecasting
- - :chart: I also teach workshops on time series analysis
+ - 🛠️ I maintain the R 📦 [{mvgam}](https://nicholasjclark.github.io/mvgam/) for Bayesian time series modelling and forecasting. [Here is an introductory webinar showing what mvgam does](https://www.youtube.com/watch?v=RwllLjgPUmM&list=PLzFHNoUxkCvtIGABuakH_T5CLVZPedaXQ&index=3) 
+ - :chart: I also teach workshops on Generalized Additive Models (GAMs) and time series analysis
 - 💬 Ask me about coffee, tennis and quantitative ecology
  - :computer: I mostly program in R and Stan
 - 😄 Pronouns: He / Him
 
-I'm actively seeking PhD students to work in the areas of ecological forecasting, multivariate model evaluation and development of {mvgam}. Please reach out if you are interested
+I'm actively seeking Honours and PhD students to work in the areas of ecological forecasting, multivariate model evaluation, hierarchical GAMs and development of {mvgam}. Please reach out if you are interested
